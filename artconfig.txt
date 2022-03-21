@@ -1,0 +1,111 @@
+AddSimpleModel(-1,18865, -5400, "Weapons/ak47.dff", "Weapons/ak47.txd");
+AddSimpleModel(-1,18865, -5401, "Weapons/Rifle.dff", "Weapons/Rifle.txd");
+AddSimpleModel(-1,18865, -5402, "Weapons/micro_uzi.dff", "Weapons/micro_uzi.txd");
+AddSimpleModel(-1,18865, -3000, "Weapons/m4.dff", "Weapons/m4.txd");
+AddSimpleModel(-1,18865, -3011, "Weapons/chromegun.dff", "Weapons/chromegun.txd");
+AddSimpleModel(-1,18865, -2050, "Weapons/schromegun.dff", "Weapons/schromegun.txd");
+AddSimpleModel(-1,18865, -3012, "Weapons/mp5_2.dff", "Weapons/mp5_2.txd");
+AddSimpleModel(-1,18865, -3013, "Weapons/shotgspa.dff", "Weapons/shotgspa.txd");
+AddSimpleModel(-1,18865, -3014, "Weapons/m4_1.dff", "Weapons/m4_1.txd");
+AddSimpleModel(-1,18865, -3016, "Weapons/desert_eagle3.dff", "Weapons/desert_eagle3.txd");
+AddSimpleModel(-1,18865, -3017, "Weapons/MP5_Legend.dff", "Weapons/MP5_Legend.txd");
+AddSimpleModel(-1,18865, -3018, "Weapons/M4_Legend.dff", "Weapons/M4_Legend.txd");
+AddSimpleModel(-1,18865, -3019, "Weapons/mp5vqmm.dff", "Weapons/mp5vqmm.txd");
+AddSimpleModel(-1,18865, -3020, "Weapons/m4vqmm.dff", "Weapons/m4vqmm.txd");
+AddSimpleModel(-1,18865, -3021, "Weapons/shotgspacauvong.dff", "Weapons/shotgspacauvong.txd");
+AddSimpleModel(-1,18865, -3022, "Weapons/desert_eaglepXMax.dff", "Weapons/desert_eagleXMax.txd");
+AddSimpleModel(-1,18865, -3023, "Weapons/tec9.dff", "Weapons/tec9.txd");
+AddSimpleModel(-1,18865, -3024, "Weapons/colt45.dff", "Weapons/colt45.txd");
+AddSimpleModel(-1,18865, -3025, "Weapons/silenced.dff", "Weapons/silenced.txd");
+//________________________________________________________________________________________________
+AddCharModel(294, 25001, "FreeFire/CowboyPass.dff", "FreeFire/CowboyPass.txd");
+AddCharModel(294, 25002, "FreeFire/FireSkeletonFF.dff", "FreeFire/FireSkeletonFF.txd");
+AddCharModel(294, 25003, "FreeFire/HEADHUNTERS.dff", "FreeFire/HEADHUNTERS.txd");
+AddCharModel(294, 25004, "FreeFire/TheDonato.dff", "FreeFire/TheDonato.txd");
+AddCharModel(294, 25005, "FreeFire/Yuzhong.dff", "FreeFire/Yuzhong.txd");
+AddCharModel(294, 25006, "FreeFire/masqulino.dff", "FreeFire/masqulino.txd");
+AddCharModel(294, 25007, "FreeFire/NinjaFF.dff", "FreeFire/NinjaFF.txd");
+AddCharModel(294, 25008, "FreeFire/PIRATECAPITAN.dff", "FreeFire/PIRATECAPITAN.txd");
+AddCharModel(294, 25009, "FreeFire/sakuraff.dff", "FreeFire/sakuraff.txd");
+AddCharModel(294, 25010, "FreeFire/ShadowRed.dff", "FreeFire/ShadowRed.txd");
+AddCharModel(294, 25011, "FreeFire/NoirM.dff", "FreeFire/NoirM.txd");
+AddCharModel(294, 25012, "FreeFire/ClintM2.dff", "FreeFire/ClintM2.txd");
+AddCharModel(294, 25013, "FreeFire/ZilongSW.dff", "FreeFire/ZilongSW.txd");
+AddCharModel(294, 25014, "FreeFire/gusionsoul.dff", "FreeFire/gusionsoul.txd");
+AddCharModel(294, 25015, "FreeFire/shura.dff", "FreeFire/shura.txd");
+//________________________________________________________________________________________________
+AddCharModel(294, 25016, "Football/CR7_P21.dff", "Football/CR7_P21.txd");
+//________________________________________________________________________________________________
+AddCharModel(294, 25017, "GTAV/SKIN1.dff", "GTAV/SKIN1.txd");
+AddCharModel(294, 25018, "GTAV/SKIN2.dff", "GTAV/SKIN2.txd");
+AddCharModel(294, 25019, "GTAV/SKIN3.dff", "GTAV/SKIN3.txd");
+AddCharModel(294, 25020, "GTAV/SKIN4.dff", "GTAV/SKIN4.txd");
+AddCharModel(294, 25021, "GTAV/SKIN5.dff", "GTAV/SKIN5.txd");
+//________________________________________________________________________________________________
+AddCharModel(294, 25022, "PUBG/rename.dff", "PUBG/rename.txd");
+AddCharModel(294, 25023, "PUBG/SkinGirl1.dff", "PUBG/SkinGirl1.txd");
+AddCharModel(294, 25024, "PUBG/SkinGirl2.dff", "PUBG/SkinGirl2.txd");
+AddCharModel(294, 25025, "PUBG/SkinMale1.dff", "PUBG/SkinMale1.txd");
+AddCharModel(294, 25026, "PUBG/SkinMale2.dff", "PUBG/SkinMale2.txd");
+//________________________________________________________________________________________________
+AddCharModel(294, 25027, "Anime/Akaza.dff", "Anime/Akaza.txd");
+AddCharModel(294, 25028, "Anime/maccer.dff", "Anime/maccer.txd");
+AddCharModel(294, 25029, "Anime/DOAXVV_Kokoro_s.dff", "Anime/DOAXVV_Kokoro_s.txd");
+AddCharModel(294, 25030, "Anime/MildredMildy.dff", "Anime/MildredMildy.txd");
+AddCharModel(294, 25031, "Anime/AsunaSAO.dff", "Anime/AsunaSAO.txd");
+AddCharModel(294, 25032, "Anime/Kokoro_Dress.dff", "Anime/Kokoro_Dress.txd");
+AddCharModel(294, 25033, "Anime/Mitsuri.dff", "Anime/Mitsuri.txd");
+AddCharModel(294, 25034, "Anime/ItsukiHalloween.dff", "Anime/ItsukiHalloween.txd");
+AddCharModel(294, 25035, "Anime/Emilia.dff", "Anime/Emilia.txd");
+AddCharModel(294, 25036, "Anime/Rengoku.dff", "Anime/Rengoku.txd");
+AddCharModel(294, 25037, "Anime/MikuHalloween.dff", "Anime/MikuHalloween.txd");
+AddCharModel(294, 25038, "Anime/IYRS.dff", "Anime/IYRS.txd");
+AddCharModel(294, 25039, "Anime/Kili.dff", "Anime/Kili.txd");
+AddCharModel(294, 25040, "Anime/TanjiroDS.dff", "Anime/TanjiroDS.txd");
+AddCharModel(294, 25041, "Anime/wucan.dff", "Anime/wucan.txd");
+AddCharModel(294, 25042, "Anime/Yoshino.dff", "Anime/Yoshino.txd");
+AddCharModel(294, 25043, "Anime/Zenitsu.dff", "Anime/Zenitsu.txd");
+//________________________________________________________________________________________________
+AddCharModel(294, 27304, "Lord.dff", "Lord.txd");
+AddSimpleModel(-1,19379, -4000, "airdrop.dff", "airdrop.txd");
+AddSimpleModel(-1,17049,  -7000, "Godzilla2019.dff", "Godzilla2019.txd");
+//________________________________________________________________________________________________
+AddSimpleModel(-1,18865, -4001, "Vehicle/customhuntley-1.dff", "Vehicle/customhuntley-1.txd");
+AddSimpleModel(-1,18865, -4003, "Vehicle/customhuntley.dff", "Vehicle/CustomHuntleyPurple.txd");
+AddSimpleModel(-1,18865, -4004, "Vehicle/customhuntley.dff", "Vehicle/CustomHuntleyMonster.txd");
+AddSimpleModel(-1,18865, -4005, "Vehicle/customhuntley.dff", "Vehicle/CustomHuntleyHell.txd");
+AddSimpleModel(-1,18865, -4010, "Vehicle/customhuntley.dff", "Vehicle/HuntlyV2.txd");
+AddSimpleModel(-1,18865, -4011, "Vehicle/customhuntley.dff", "Vehicle/Huntly2V2.txd");
+AddSimpleModel(-1,18865, -4012, "Vehicle/customhuntley.dff", "Vehicle/Huntly22V2.txd");
+AddSimpleModel(-1,18865, -4013, "Vehicle/customhuntley.dff", "Vehicle/huntleyVNS.txd");
+AddSimpleModel(-1,18865, -4016, "Vehicle/customhuntley.dff", "Vehicle/huntleyVNS2.txd");
+AddSimpleModel(-1,18865, -4014, "Vehicle/Sultan.dff", "Vehicle/Sultan.txd");
+AddSimpleModel(-1,18865, -4018, "Vehicle/Sultan.dff", "Vehicle/sultan1.txd");
+AddSimpleModel(-1,18865, -4017, "Vehicle/Sultan.dff", "Vehicle/sultan2.txd");
+AddSimpleModel(-1,18865, -5013, "Vehicle/bmw.dff", "Vehicle/bmw.txd");
+AddSimpleModel(-1,18865, -5014, "Vehicle/bmw.dff", "Vehicle/bmw1.txd");
+AddSimpleModel(-1,18865, -5015, "Vehicle/h2r.dff", "Vehicle/h2r.txd");
+AddSimpleModel(-1,18865, -5016, "Vehicle/customhuntley.dff", "Vehicle/v03.txd");
+AddSimpleModel(-1,18865, -5017, "Vehicle/customhuntley.dff", "Vehicle/v031.txd");
+AddSimpleModel(-1,18865, -5018, "Vehicle/customhuntley.dff", "Vehicle/v032.txd");
+AddSimpleModel(-1,18865, -5019, "Vehicle/customhuntley.dff", "Vehicle/v033.txd");
+AddSimpleModel(-1,18865, -5020, "Vehicle/cang.dff", "Vehicle/cang.txd");
+//________________________________________________________________________________________________
+AddSimpleModel(-1,1609, -4006, "Fish/Fish.dff", "Fish/Fish.txd");
+AddSimpleModel(-1,1608, -4007, "Fish/Alligator.dff", "Fish/Alligator.txd");
+AddSimpleModel(-1,1608, -4008, "Fish/turtle.dff", "Fish/turtle.txd");
+AddSimpleModel(-1,1608, -4009, "Fish/Humpback.dff", "Fish/Humpback.txd");
+AddSimpleModel(-1,1608, -4015, "Fish/Megalodon.dff", "Fish/Megalodon.txd");
+AddSimpleModel(-1,1608, -4019, "Fish/Mosasaurus.dff", "Fish/Mosasaurus.txd");
+AddSimpleModel(-1,1608, -4020, "Fish/shark.dff", "Fish/shark.txd");
+AddSimpleModel(-1,1608, -4021, "Fish/lizzie.dff", "Fish/lizzie.txd");
+//________________________________________________________________________________________________
+AddCharModel(0, 28304, "Pet/dog9.dff", "Pet/dog9.txd");
+AddCharModel(0, 28305, "Pet/Dog3.dff", "Pet/Dog3.txd");
+AddCharModel(0, 28306, "Pet/Dog6.dff", "Pet/Dog6.txd");
+AddCharModel(0, 28307, "Pet/carcharodontosaurus.dff", "Pet/carcharodontosaurus.txd");
+//________________________________________________________________________________________________
+AddSimpleModel(-1, 19377, -3044, "object.dff", "Wallpaper/Login.txd");
+AddSimpleModel(-1, 19377, -3049, "object.dff", "Wallpaper/Hud.txd");
+//AddSimpleModel(-1, 19377, -3048, "object.dff", "Wallpaper/Inventory_V2.txd");
+//AddSimpleModel(-1, 19377, -3047, "object.dff", "Wallpaper/Safezone.txd"); 
